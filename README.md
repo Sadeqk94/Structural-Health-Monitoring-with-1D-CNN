@@ -1,0 +1,1 @@
+# Structural-Health-Monitoring-with-1D-Convolutional-Neural-Networks
