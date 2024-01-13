@@ -19,12 +19,12 @@ Requirements
 
 Ensure the following dependencies are installed:
 
--NumPy
--pandas
--scikit-learn
--Keras
--Matplotlib
--gdown
+- NumPy
+- Pandas
+- Scikit-learn
+- Keras
+- Matplotlib
+- Gdown
 
 Usage
 
